@@ -1,0 +1,82 @@
+2024-11-19T04:04:30.087794Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie")}
+2024-11-19T04:04:30.087803Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-11-19T04:04:30.188097Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/2.cookie"), AnchoredSystemPathBuf("packages/ui/.turbo"), AnchoredSystemPathBuf(".turbo/cookies/1.cookie")}
+2024-11-19T04:04:30.188111Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-11-19T04:04:31.390573Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/vite.config.ts.timestamp-1731989071298-390f19daacd1f.mjs")}
+2024-11-19T04:04:31.390584Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T04:04:31.390603Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:04:33.189385Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/4.cookie"), AnchoredSystemPathBuf(".turbo/cookies/6.cookie"), AnchoredSystemPathBuf("apps/host/.turbo"), AnchoredSystemPathBuf("apps/portfolio/.turbo"), AnchoredSystemPathBuf(".turbo/cookies/3.cookie"), AnchoredSystemPathBuf(".turbo/cookies/5.cookie"), AnchoredSystemPathBuf("apps/trading/.turbo")}
+2024-11-19T04:04:33.189404Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("host"), path: AnchoredSystemPathBuf("apps/host") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("trading"), path: AnchoredSystemPathBuf("apps/trading") }, WorkspacePackage { name: Other("portfolio"), path: AnchoredSystemPathBuf("apps/portfolio") }}))
+2024-11-19T04:04:33.687294Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/trading/vite.config.ts.timestamp-1731989073652-e9f79001f2f88.mjs"), AnchoredSystemPathBuf("apps/portfolio/vite.config.ts.timestamp-1731989073651-0d75c477f4e75.mjs"), AnchoredSystemPathBuf("apps/host/vite.config.ts.timestamp-1731989073653-aee8558b99842.mjs")}
+2024-11-19T04:04:33.687304Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("host"), path: AnchoredSystemPathBuf("apps/host") }, WorkspacePackage { name: Other("trading"), path: AnchoredSystemPathBuf("apps/trading") }, WorkspacePackage { name: Other("portfolio"), path: AnchoredSystemPathBuf("apps/portfolio") }}))
+2024-11-19T04:04:33.687318Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:04:33.687328Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:04:33.687335Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:04:36.086873Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/7.cookie")}
+2024-11-19T04:04:36.086884Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-11-19T04:04:36.187674Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/9.cookie"), AnchoredSystemPathBuf(".turbo/cookies/8.cookie")}
+2024-11-19T04:04:36.187684Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-11-19T04:05:01.586858Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/12.cookie"), AnchoredSystemPathBuf(".turbo/cookies/10.cookie"), AnchoredSystemPathBuf(".turbo/cookies/11.cookie"), AnchoredSystemPathBuf("packages/ui/.turbo")}
+2024-11-19T04:05:01.586888Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-11-19T04:05:01.586918Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:05:02.087945Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/portfolio/vite.config.ts.timestamp-1731989102023-8802aba22d949.mjs"), AnchoredSystemPathBuf("packages/ui/vite.config.ts.timestamp-1731989102023-2b6c381e6c3f6.mjs"), AnchoredSystemPathBuf("apps/trading/vite.config.ts.timestamp-1731989102024-038ab274bb89d.mjs"), AnchoredSystemPathBuf("apps/host/vite.config.ts.timestamp-1731989102023-ffb66adb05a86.mjs")}
+2024-11-19T04:05:02.087957Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("trading"), path: AnchoredSystemPathBuf("apps/trading") }, WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }, WorkspacePackage { name: Other("portfolio"), path: AnchoredSystemPathBuf("apps/portfolio") }, WorkspacePackage { name: Other("host"), path: AnchoredSystemPathBuf("apps/host") }}))
+2024-11-19T04:05:02.102021Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:05:02.102037Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:05:02.102054Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:05:02.102070Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:05:48.188393Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-11-19T04:05:48.188412Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2024-11-19T04:05:59.387257Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/host/vite.config.ts.timestamp-1731989159273-7bd5b5d7a88c4.mjs")}
+2024-11-19T04:05:59.387631Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("host"), path: AnchoredSystemPathBuf("apps/host") }}))
+2024-11-19T04:05:59.387667Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:06:17.387668Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/trading/vite.config.ts.timestamp-1731989177366-ae7bc7b1181f5.mjs")}
+2024-11-19T04:06:17.387705Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("trading"), path: AnchoredSystemPathBuf("apps/trading") }}))
+2024-11-19T04:06:17.406454Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:06:17.488671Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/trading/vite.config.ts.timestamp-1731989177366-ae7bc7b1181f5.mjs")}
+2024-11-19T04:06:17.488681Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("trading"), path: AnchoredSystemPathBuf("apps/trading") }}))
+2024-11-19T04:06:17.488694Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:07:24.486984Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/vite.config.ts.timestamp-1731989244413-a67e1f03ab338.mjs")}
+2024-11-19T04:07:24.487000Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T04:07:24.487014Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:08:16.441302Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-11-19T04:08:16.442111Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2024-11-19T04:08:22.987650Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/vite.config.ts.timestamp-1731989302879-71f84b4adefab.mjs")}
+2024-11-19T04:08:22.987676Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T04:08:22.987820Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T04:20:10.320853Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/vite.config.ts.timestamp-1731990010254-799f45eeda7dd.mjs")}
+2024-11-19T04:20:10.321634Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T04:20:10.321663Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T12:56:45.287843Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/stories")}
+2024-11-19T12:56:45.289252Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T12:56:45.289437Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T12:57:00.507993Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/stories/Button.story.tsx")}
+2024-11-19T12:57:00.508025Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T12:57:21.314797Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/stories/Button.stories.tsx"), AnchoredSystemPathBuf("packages/ui/src/stories/Button.story.tsx")}
+2024-11-19T12:57:21.314829Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T12:57:25.079895Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/stories/Button.stories.tsx")}
+2024-11-19T12:57:25.079905Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T12:58:05.243255Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/stories/Button.stories.tsx")}
+2024-11-19T12:58:05.248267Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T12:58:24.780610Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/stories/Button.stories.tsx")}
+2024-11-19T12:58:24.780632Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T12:58:24.780646Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T12:58:41.879625Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/stories/Button.stories.tsx")}
+2024-11-19T12:58:41.879635Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T12:58:41.879645Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T14:14:49.856510Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/stories/Button.stories.tsx")}
+2024-11-19T14:14:49.871715Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T14:15:05.074948Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/vite.config.ts.timestamp-1732025705000-a72d7757afe85.mjs")}
+2024-11-19T14:15:05.074983Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@stock-trading/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2024-11-19T14:15:05.075007Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T14:17:45.875725Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/host/vite.config.ts.timestamp-1732025865847-ed7cc124b0848.mjs")}
+2024-11-19T14:17:45.875755Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("host"), path: AnchoredSystemPathBuf("apps/host") }}))
+2024-11-19T14:17:45.894110Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T14:17:45.976389Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/host/vite.config.ts.timestamp-1732025865847-ed7cc124b0848.mjs")}
+2024-11-19T14:17:45.976399Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("host"), path: AnchoredSystemPathBuf("apps/host") }}))
+2024-11-19T14:17:45.976416Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T14:18:00.476224Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/trading/vite.config.ts.timestamp-1732025880410-1155bb818d9e3.mjs")}
+2024-11-19T14:18:00.476337Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("trading"), path: AnchoredSystemPathBuf("apps/trading") }}))
+2024-11-19T14:18:00.476425Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-19T15:07:10.134549Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-11-19T15:07:10.135736Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))

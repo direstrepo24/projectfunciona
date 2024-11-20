@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Neumorphism variables
+$neu-light: #ffffff;
+$neu-dark: #d1d9e6;
+$neu-white: #f0f3f9;
+
+// Mixins for neumorphic effects
+@mixin neu-shadow {
+  box-shadow: 
+    3px 3px 6px $neu-dark,
+    -3px -3px 6px $neu-light;
+}
+
+@mixin neu-pressed {
+  box-shadow: 
+    inset 2px 2px 5px $neu-dark,
+    inset -3px -3px 7px $neu-light;
+}
+
+// Custom classes
+.neu-button {
+  @apply px-6 py-3 rounded-xl transition-all duration-200;
+  background: $neu-white;
+  @include neu-shadow;
+  
+  &:active {
+    @include neu-pressed;
+  }
+}
+
+.neu-card {
+  @apply p-6 rounded-2xl;
+  background: $neu-white;
+  @include neu-shadow;
+}
+
+.neu-input {
+  @apply px-4 py-2 rounded-xl w-full outline-none;
+  background: $neu-white;
+  @include neu-pressed;
+}
